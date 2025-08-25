@@ -22,6 +22,8 @@ I love building small but meaningful projects while learning new skills every da
   <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
@@ -32,7 +34,6 @@ I love building small but meaningful projects while learning new skills every da
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
