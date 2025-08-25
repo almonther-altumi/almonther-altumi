@@ -15,14 +15,21 @@ I love building small but meaningful projects while learning new skills every da
 * 🎯 Goal: Become a professional software engineer and build useful apps.
 
 ---
-
 ### 🔧 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" />
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Backend-Express-black?style=flat-square&logo=express" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git-red?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" />
 </p>
 
 ---
