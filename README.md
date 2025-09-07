@@ -46,7 +46,7 @@ I love building small but meaningful projects while learning new skills every da
 ### 📬 Get in Touch
 <p align="center">
   <a href="https://github.com/almonther-altumi"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/almonther-altumi-developer/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
   <a href="mailto:monthertumi2025@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/email.png"/></a>
 </p>
 
